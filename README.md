@@ -1,2 +1,2 @@
-# ertrilus.github.io
+# Ertrilus
 Learning
